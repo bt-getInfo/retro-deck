@@ -23,7 +23,7 @@ https://archive.org/download/no-intro_romsets/no-intro%20romsets/Nintendo%20-%20
 ### List of consoles' games along with the corresponding download link
 
 
-Game | Link
+Game | Download
 -----|------
 Nintendo - Family Computer Disk System (FDSStickBIN) (20211021-141824) | [Link](https://archive.org/download/no-intro_romsets/no-intro%20romsets/Nintendo%20-%20Family%20Computer%20Disk%20System%20%28FDSStickBIN%29%20%2820211021-141824%29.zip)
 Nintendo - Game Boy (20220319-072236) | [Link](https://archive.org/download/no-intro_romsets/no-intro%20romsets/Nintendo%20-%20Game%20Boy%20%2820220319-072236%29.zip)
