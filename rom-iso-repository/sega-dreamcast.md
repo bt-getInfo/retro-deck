@@ -339,7 +339,7 @@ https://archive.org/download/18wheeleramericanprotruckerv1.7002001segapalm4/Zomb
 ### List of `selected` games along with the corresponding download link
 
 
-Game | Link
+Game | Download
 -----|------
 4x4 Evolution | `NOT-FOUND`
 18 Wheeler - American Pro Trucker | [Link](https://archive.org/download/18wheeleramericanprotruckerv1.7002001segapalm4/18%20Wheeler%20-%20American%20Pro%20Trucker%20v1.700%20%282001%29%28Sega%29%28PAL%29%28M4%29%5B%21%5D.zip)
