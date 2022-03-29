@@ -19,7 +19,7 @@ https://archive.org/download/no-intro_romsets/no-intro%20romsets/Sega%20-%20Game
 ### List of consoles' games along with the corresponding download link
 
 
-Game | Link
+Game | Download
 -----|------
 Sega - Master System - Mark III (20220203-091616)| [Link](https://archive.org/download/no-intro_romsets/no-intro%20romsets/Sega%20-%20Master%20System%20-%20Mark%20III%20%2820220203-091616%29.zip)
 Sega - Mega Drive - Genesis (20220312-063240)| [Link](https://archive.org/download/no-intro_romsets/no-intro%20romsets/Sega%20-%20Mega%20Drive%20-%20Genesis%20%2820220312-063240%29.zip)
