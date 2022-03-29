@@ -312,7 +312,7 @@ https://archive.org/download/rr-sony-playstation-2-e3/europe/iso/Yu-Gi-Oh%21%20T
 
 
 <details>
-  <summary>Batch Download List [RAW]</summary>
+  <summary>Batch Download List [RAW] EU-PAL</summary>
 
 
 <h2>List of download links for the games:</h2>
