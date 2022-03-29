@@ -1,4 +1,4 @@
-## Sega Dreamcast Game Collection
+## Sega Naomi Game Collection
 
 <details>
   <summary>Batch Download List [Selected Games]</summary>
