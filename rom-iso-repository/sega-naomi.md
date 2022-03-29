@@ -1,7 +1,7 @@
 ## Sega Dreamcast Game Collection
 
 <details>
-  <summary>Batch Download List</summary>
+  <summary>Batch Download List [Selected Games]</summary>
 
 
 <h2>List of download links for the games:</h2>
