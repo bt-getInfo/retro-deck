@@ -267,7 +267,7 @@
 
 ---------------
 
-### List of Games along with the corresponding download link 
+### List of `selected` games along with the corresponding download link 
 
 
 Game Name   | Download
