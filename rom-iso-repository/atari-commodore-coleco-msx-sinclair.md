@@ -52,7 +52,7 @@ https://archive.org/download/no-intro_romsets/no-intro%20romsets/Sinclair%20-%20
 ### List of consoles' games along with the corresponding download link
 
 
-Game | Link
+Game | Download
 -----|------
 Atari - 2600 (20211206-131945)| [Link](https://archive.org/download/no-intro_romsets/no-intro%20romsets/Atari%20-%202600%20%2820211206-131945%29.zip)
 Atari - 5200 (20220225-072611)| [Link](https://archive.org/download/no-intro_romsets/no-intro%20romsets/Atari%20-%205200%20%2820220225-072611%29.zip)
