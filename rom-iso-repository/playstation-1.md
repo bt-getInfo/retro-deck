@@ -1,10 +1,10 @@
 ## Playstation 1 (PSX) Game Collection
 
 <details>
-  <summary>Batch download</summary>
+  <summary>Batch Download List [Selected Games]</summary>
 
 </br>
-<h3>List of download links for the all games:</h3>
+<h3>List of download links for the games:</h3>
 
 
     https://archive.org/download/rr-sony-playstation-j/japan/Gradius%20Gaiden%20%28Japan%29%20%28Rev%201%29.7z
