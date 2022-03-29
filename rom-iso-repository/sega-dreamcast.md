@@ -1,7 +1,7 @@
 ## Sega Dreamcast Game Collection
 
 <details>
-  <summary>Batch Download List</summary>
+  <summary>Batch Download List [Selected Games]</summary>
 
 
 <h2>List of download links for the games:</h2>
@@ -22,7 +22,7 @@ https://archive.org/download/no-intro_romsets/no-intro%20romsets/Nintendo%20-%20
 
 
 <details>
-  <summary>Batch Download List _raw_</summary>
+  <summary>Batch Download List [RAW]</summary>
 
 
 <h2>List of download links for the games:</h2>
